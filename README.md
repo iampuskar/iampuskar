@@ -1,4 +1,10 @@
-![2000_600px](https://github.com/user-attachments/assets/f56badfb-931f-4724-be10-c64a0c98f4fa)
+![dd](https://github.com/user-attachments/assets/ae29f4ca-e739-4734-9195-43e0db44cfaf)
+
+
+# 👋 Hi, I'm Puskar Ghimire
+### Data Analyst | Data Scientist | Power BI | Python | SQL | AWS | Machine Learning
+</div>
+
 
 <div align="center">
 
