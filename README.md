@@ -12,12 +12,12 @@ readme_content = """
 - 🤖 I'm actively learning **Machine Learning & Deep Learning**.
 - 📈 I'm seeking opportunities to collaborate on **Data Science & AI Projects**.
 - 💻 I'm also passionate about **Python**, **SQL**, and **Data Visualization**.
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **puskar93@gmail.com**
 
 ---
 
 ### 🚀 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/yourprofile/) | [GitHub](https://github.com/yourprofile) | [Twitter](https://twitter.com/yourhandle)
+[LinkedIn](https://www.linkedin.com/in/yourprofile/) | [GitHub](https://github.com/yourprofile)
 
 ---
 
@@ -81,10 +81,3 @@ readme_content = """
 - **Current Streak:** 3 days  
 - **Longest Streak:** 10 days  
 """
-
-# Save as README.md file
-file_path = "README.md"
-with open(file_path, "w") as file:
-    file.write(readme_content)
-
-print(f"README.md file successfully created at: {file_path}")
