@@ -1,6 +1,3 @@
-# Creating a README.md file with the desired content
-
-readme_content = """
 # 👋 Hi, I am Puskar Ghimire
 
 ### A Passionate Data Science Student
