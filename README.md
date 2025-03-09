@@ -7,7 +7,7 @@
 <image align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></image>
 <br></br>
 ### 🌟 About Me
-- 📊 I'm currently working on **Data Analysis Projects**.
+- 📊 I'm currently working on **Power BI Projects**.
 - 🤖 I'm actively learning **Machine Learning & Deep Learning**.
 - 📈 I'm seeking opportunities to collaborate on **Data Science & AI Projects**.
 - 💻 I'm also passionate about **Python**, **SQL**, and **Data Visualization**.
