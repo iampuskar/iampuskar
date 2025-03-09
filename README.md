@@ -1,3 +1,4 @@
+<div align = "center">
 # 👋 Hi, I am Puskar Ghimire
 
 ### A Passionate Data Science Student
