@@ -50,12 +50,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### 📊 GitHub Stats &  Most Used Languages
-<div style="display: flex; justify-content: center; gap: 40px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=iampuskar&show_icons=true&theme=radical" width="400" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampuskar&layout=compact&theme=radical" width="400"  height="200"/>
-</div>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iampuskar&show_icons=true&locale=en&layout=compact" alt="iampuskar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iampuskar&show_icons=true&locale=en" alt="iampuskar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iampuskar&" alt="iampuskar" /></p>
 
 <!-- Popular Repositories -->
 <div style="width: 30%;">
