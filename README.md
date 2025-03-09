@@ -53,7 +53,7 @@
 
 ### 🚀 Connect with Me  
 
-[LinkedIn](https://www.linkedin.com/in/yourprofile/) | [GitHub](https://github.com/yourprofile)
+[LinkedIn](https://www.linkedin.com/in/iampuskar/) | [GitHub](https://github.com/iampuskar)
 
 </div>
 
