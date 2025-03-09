@@ -59,8 +59,6 @@
 
 <!-- Popular Repositories -->
 <div style="width: 30%;">
-  
-<br></br>
 
 ### 📋 Popular Repositories  
 - 📂 **[Project 1: Excel Portfolio Project](https://github.com/iampuskar/project1)**  
