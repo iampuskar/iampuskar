@@ -13,11 +13,12 @@
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ### 🌟 About Me
-- 📊 I'm currently working on **Power BI Projects**  
-- 🤖 I'm actively learning **Machine Learning & Deep Learning**  
-- 📈 I'm seeking opportunities to collaborate on **Data Science & AI Projects**  
-- 💻 I'm also passionate about **Python**, **SQL**, and **Data Visualization**  
-- 📫 Reach me at: **puskar93@gmail.com**
+- 📊 I'm currently working on **[Power BI Projects](https://powerbi.microsoft.com/)**  
+- 🤖 I'm actively learning **[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)** & **[Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)**  
+- 📈 I'm seeking opportunities to collaborate on **[Data Science](https://en.wikipedia.org/wiki/Data_science)** & **[AI Projects](https://en.wikipedia.org/wiki/Artificial_intelligence)**  
+- 💻 I'm also passionate about **[Python](https://www.python.org/)**, **[SQL](https://en.wikipedia.org/wiki/SQL)**, and **[Data Visualization](https://en.wikipedia.org/wiki/Data_visualization)**  
+- 📫 Reach me at: **[puskar93@gmail.com](mailto:puskar93@gmail.com)**
+
 
 </div>
 <br></br>
