@@ -17,8 +17,8 @@
 
 ### 🌟 About Me
 - 📊 I'm currently working on **[Power BI Projects](https://github.com/iampuskar/PowerBI-Portfolio-Project)**  
-- 🤖 I'm actively learning **[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)** & **[Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)**  
-- 📈 I'm seeking opportunities to collaborate on **[Data Science](https://en.wikipedia.org/wiki/Data_science)** & **[AI Projects](https://en.wikipedia.org/wiki/Artificial_intelligence)**  
+- 🤖 I'm actively learning **Machine Learning** & **Visualization**  
+- 📈 I'm seeking opportunities to collaborate on **Data Science** & **Analytics Projects**  
 - 💻 I'm also passionate about **[Python](https://www.python.org/)**, **[SQL](https://en.wikipedia.org/wiki/SQL)**, and **[Data Visualization](https://en.wikipedia.org/wiki/Data_visualization)**  
 - 📫 Reach me at: **[puskar93@gmail.com](mailto:puskar93@gmail.com)**
 
