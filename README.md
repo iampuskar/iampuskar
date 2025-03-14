@@ -60,9 +60,9 @@
 <div style="width: 30%;">
 
 ### 📋 Popular Repositories  
-- 📂 **[Project 1: Excel Portfolio Project](https://github.com/iampuskar/project1)**  
-- 📂 **[Project 2: Interactive Dashboard in Power BI](https://github.com/iampuskar/project2)**  
-- 📂 **[Project 3: Machine Learning Projects](https://github.com/iampuskar/project3)**  
+- 📂 **[Project 1: Excel Portfolio Project](https://github.com/iampuskar/Excel-Housing-Portfolio-Project)**  
+- 📂 **[Project 2: Interactive Dashboard in Power BI](https://github.com/iampuskar/PowerBI-Portfolio-Project)**  
+- 📂 **[Project 3: Machine Learning Projects](https://github.com/iampuskar/fastText)**  
 
 </div>
 
